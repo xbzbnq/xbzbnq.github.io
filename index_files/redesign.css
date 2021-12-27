@@ -4436,7 +4436,7 @@ header.scrolled {
   color: #fff;
   text-align: center;
   border-radius: 2px;
-  opacity: 0.8;
+  opacity: 1.5;
   transition: all 0.3s ease 0s;
 }
 
