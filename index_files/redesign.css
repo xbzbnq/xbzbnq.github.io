@@ -4435,7 +4435,7 @@ header.scrolled {
   background: linear-gradient(90deg,#ff7304 22%,#c9c9c9 59%);
   color: #fff;
   text-align: center;
-  border-radius: 2px;
+  border-radius: 8px;
   opacity: 1.5;
   transition: all 0.3s ease 0s;
 }
